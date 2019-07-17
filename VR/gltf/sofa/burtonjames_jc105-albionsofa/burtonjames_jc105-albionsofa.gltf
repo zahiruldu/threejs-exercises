@@ -1,0 +1,503 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for 3ds max 2019 v1.3.9"
+  },
+  "extensionsUsed": [
+    "KHR_texture_transform",
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsRequired": [
+    "KHR_texture_transform",
+    "KHR_draco_mesh_compression"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ],
+      "extensions": {}
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "name": "burtonjames_jc105-albionsofa"
+    },
+    {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "name": "Default light"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "mode": 4,
+          "material": 1,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "mode": 4,
+          "material": 2,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "mode": 4,
+          "material": 3,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "name": "burtonjames_jc105-albionsofa"
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5123,
+      "count": 38484,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 8865,
+      "max": [
+        1250.53943,
+        1019.521,
+        533.254944
+      ],
+      "min": [
+        -1250.53955,
+        76.0450439,
+        -496.144836
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 8865,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 8865,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "componentType": 5123,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        1206.49976,
+        76.00012,
+        495.5
+      ],
+      "min": [
+        -1206.5,
+        0,
+        -495.500061
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "componentType": 5123,
+      "count": 8004,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 1656,
+      "max": [
+        248.787415,
+        854.6958,
+        123.016495
+      ],
+      "min": [
+        -240.94696,
+        526.0388,
+        -72.0527344
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 1656,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 1656,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "componentType": 5123,
+      "count": 23274,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 4626,
+      "max": [
+        1054.86975,
+        935.518555,
+        229.9239
+      ],
+      "min": [
+        -1080.793,
+        457.434265,
+        -81.80292
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 4626,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 4626,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 48867
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 48868,
+      "byteLength": 336
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49204,
+      "byteLength": 11111
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 60316,
+      "byteLength": 28667
+    }
+  ],
+  "buffers": [
+    {
+      "name": "burtonjames_jc105-albionsofa",
+      "byteLength": 88984,
+      "uri": "burtonjames_jc105-albionsofa.bin"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.4995,
+                -0.499499977
+              ],
+              "scale": [
+                0.001,
+                0.001
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_jc105-albionsofa_fabric_mat",
+      "doubleSided": false
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6434829,
+          0.5462191,
+          0.521002531,
+          1
+        ],
+        "metallicFactor": 0.917083859,
+        "roughnessFactor": 0.400000036
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_jc105-albionsofa_darkcopper_mat",
+      "doubleSided": false
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.499,
+                -0.499038458
+              ],
+              "scale": [
+                0.002,
+                0.00192307692
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_jc105-albionsofa_velvet_mat",
+      "doubleSided": false
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.499,
+                -0.498999953
+              ],
+              "scale": [
+                0.002,
+                0.002
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_jc105-albionsofa_patternedfabric_mat",
+      "doubleSided": false
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "burtonjames_jc105-albionsofa_fabric_mat_baseColor.jpg"
+    },
+    {
+      "sampler": 1,
+      "source": 1,
+      "name": "burtonjames_jc105-albionsofa_velvet_mat_baseColor.jpg"
+    },
+    {
+      "sampler": 2,
+      "source": 2,
+      "name": "burtonjames_jc105-albionsofa_patternedfabric_mat_baseColor.jpg"
+    }
+  ],
+  "images": [
+    {
+      "name": "burtonjames_jc105-albionsofa_fabric_mat_baseColor",
+      "uri": "burtonjames_jc105-albionsofa_fabric_mat_baseColor.jpg"
+    },
+    {
+      "name": "burtonjames_jc105-albionsofa_velvet_mat_baseColor",
+      "uri": "burtonjames_jc105-albionsofa_velvet_mat_baseColor.jpg"
+    },
+    {
+      "name": "burtonjames_jc105-albionsofa_patternedfabric_mat_baseColor",
+      "uri": "burtonjames_jc105-albionsofa_patternedfabric_mat_baseColor.jpg"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ]
+}

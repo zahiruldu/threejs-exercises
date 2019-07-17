@@ -1,0 +1,424 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for 3ds max 2019 v1.3.9"
+  },
+  "extensionsUsed": [
+    "KHR_texture_transform",
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsRequired": [
+    "KHR_texture_transform",
+    "KHR_draco_mesh_compression"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ],
+      "extensions": {}
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        8.742278e-8,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "name": "burtonjames_6005androsect"
+    },
+    {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "name": "Default light"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "mode": 4,
+          "material": 1,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        },
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "mode": 4,
+          "material": 2,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "name": "burtonjames_6005androsect"
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5123,
+      "count": 61290,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 15322,
+      "max": [
+        1701.302,
+        951.2863,
+        1229.02332
+      ],
+      "min": [
+        -1645.37146,
+        177.73555,
+        -1295.08655
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 15322,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 15322,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "componentType": 5123,
+      "count": 216,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 144,
+      "max": [
+        1626,
+        178.0002,
+        1218.99976
+      ],
+      "min": [
+        -1638.5,
+        0.176457584,
+        -1218.99988
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 144,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "componentType": 5123,
+      "count": 19140,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "componentType": 5126,
+      "count": 3852,
+      "max": [
+        1314.15625,
+        900.8904,
+        -502.22348
+      ],
+      "min": [
+        -1412.82544,
+        460.567657,
+        -941.012268
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "componentType": 5126,
+      "count": 3852,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "componentType": 5126,
+      "count": 3852,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 80640
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 80640,
+      "byteLength": 670
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 81312,
+      "byteLength": 23128
+    }
+  ],
+  "buffers": [
+    {
+      "name": "burtonjames_6005androsect",
+      "byteLength": 104440,
+      "uri": "burtonjames_6005androsect.bin"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.499,
+                -0.499038458
+              ],
+              "scale": [
+                0.002,
+                0.00192307692
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9
+      },
+      "normalTexture": {
+        "index": 0,
+        "texCoord": 0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              0.499,
+              -0.499038458
+            ],
+            "scale": [
+              0.002,
+              0.00192307692
+            ],
+            "texCoord": 0
+          }
+        }
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_6005androsect_linen_mat",
+      "doubleSided": false
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.235563114,
+          0.24130933,
+          0.201085821,
+          1
+        ],
+        "metallicFactor": 0.7154554,
+        "roughnessFactor": 0.700000048
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_6005androsect_wood_mat",
+      "doubleSided": false
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.499,
+                -0.499038458
+              ],
+              "scale": [
+                0.002,
+                0.00192307692
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.192708358,
+        "roughnessFactor": 0.75
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "name": "burtonjames_6005androsect_cushion_mat",
+      "doubleSided": false
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "burtonjames_6005androsect_linen_difftex.jpg"
+    },
+    {
+      "sampler": 1,
+      "source": 1,
+      "name": "burtonjames_6005androsect_linen_mat_baseColor.jpg"
+    },
+    {
+      "sampler": 2,
+      "source": 2,
+      "name": "burtonjames_6005androsect_cushion_mat_baseColor.jpg"
+    }
+  ],
+  "images": [
+    {
+      "name": "burtonjames_6005androsect_linen_difftex",
+      "uri": "burtonjames_6005androsect_linen_difftex.jpg"
+    },
+    {
+      "name": "burtonjames_6005androsect_linen_mat_baseColor",
+      "uri": "burtonjames_6005androsect_linen_mat_baseColor.jpg"
+    },
+    {
+      "name": "burtonjames_6005androsect_cushion_mat_baseColor",
+      "uri": "burtonjames_6005androsect_cushion_mat_baseColor.jpg"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ]
+}
